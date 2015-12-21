@@ -3,6 +3,7 @@
 #include <string>
 #include <stdio.h>
 #include <stdlib.h>
+#include <cstring>
 #include <vector>
 
 #ifdef __APPLE__
